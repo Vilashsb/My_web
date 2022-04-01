@@ -1,2 +1,2 @@
-# basics-repo
+# basics-repository
 learning about git
