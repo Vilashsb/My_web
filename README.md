@@ -1,2 +1,2 @@
-# basics-repository
+# My web
 learning about git
